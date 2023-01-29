@@ -2,7 +2,7 @@
 
 A fun and interactive web page that generates random dad jokes for you!
 
-![Random Dad Jokes Generator Preview](./preview.png)
+![Random Dad Jokes Generator Preview](./preview.PNG)
 
 ## Features
 
