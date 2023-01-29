@@ -9,6 +9,8 @@ async function getJoke(){
             'Accept': 'application/json'
         }
     });
+//     const jokeObj = await jokeData.json();
     const jokeObj = await jokeData.json();
+    jokeText.innerHTML = jokeObj.joke;
     console.log(jokeObj.joke);
 }
